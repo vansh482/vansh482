@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 214 46" width="214" height="46" font-family="'SF Mono',ui-monospace,'DejaVu Sans Mono',monospace" role="img" aria-label="Codeforces: Expert 1600+">
+  <rect x="1" y="1" width="212" height="44" rx="12" fill="#0E1627" stroke="#2A6E6E" stroke-width="1.5"/>
+  <rect x="11" y="10" width="26" height="26" rx="7" fill="#0A2424" stroke="#2A6E6E"/>
+  <rect x="17" y="22" width="4.5" height="8" rx="1.5" fill="#34E7E7"/>
+  <rect x="23.5" y="18" width="4.5" height="12" rx="1.5" fill="#5B8DEF"/>
+  <rect x="30" y="14" width="4.5" height="16" rx="1.5" fill="#9B8CFF"/>
+  <text x="48" y="21" font-size="13" font-weight="700" fill="#DCE6F5">Codeforces</text>
+  <text x="48" y="37" font-size="11" fill="#9FE9E9">Expert · 1600+</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 46" width="162" height="46" font-family="'SF Mono',ui-monospace,'DejaVu Sans Mono',monospace" role="img" aria-label="Email: reach out">
+  <rect x="1" y="1" width="160" height="44" rx="12" fill="#0E1627" stroke="#3E3A78" stroke-width="1.5"/>
+  <rect x="11" y="10" width="26" height="26" rx="7" fill="#1A1733" stroke="#5E4FA0"/>
+  <path d="M16 17 h16 a1 1 0 0 1 1 1 v10 a1 1 0 0 1 -1 1 h-16 a1 1 0 0 1 -1 -1 v-10 a1 1 0 0 1 1 -1 z" fill="none" stroke="#C7BEF5" stroke-width="1.3"/>
+  <path d="M15.5 18 L24 25 L32.5 18" fill="none" stroke="#C7BEF5" stroke-width="1.3" stroke-linejoin="round"/>
+  <text x="48" y="21" font-size="13" font-weight="700" fill="#DCE6F5">Email</text>
+  <text x="48" y="37" font-size="11" fill="#9B8CFF">reach out</text>
+</svg>
