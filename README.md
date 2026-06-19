@@ -1,55 +1,67 @@
-# Hi, I'm Vansh Gupta 👋 
+<div align="center">
+  <img src="banner.svg" width="850" alt="Vansh Gupta — backend & distributed-systems engineer" />
+</div>
 
-### Backend Engineer | Distributed Systems & Low-Latency Infrastructure
-I'm a systems-focused software engineer passionate about building resilient, fault-tolerant architectures that handle scale gracefully. I enjoy solving hard algorithmic challenges and shaving microseconds off critical paths.
+<br/>
 
----
+> *Backend engineer who likes systems that stay up when things go wrong.*
 
-## 🚀 Technical Arsenal
+I build resilient, fault-tolerant backend services — high-throughput microservices and distributed architectures in **Java**, **Spring Boot**, and **AWS**. Before cloud SaaS, I wrote low-latency trading infrastructure in modern **C++**, where shaving microseconds and surviving partial failure *was* the job. That bias toward correctness under load follows me everywhere.
 
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+<sub>◆ Most of my day-to-day code lives in private company repositories — so treat this profile as the highlight reel, not the commit log.</sub>
 
-### Frameworks & Ecosystem
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-%23231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-</p>
+<br/>
 
-### Storage & Cache
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/RocksDB-darkblue?style=for-the-badge" alt="RocksDB"/>
-</p>
+## ⚡ &nbsp;What I work on
 
----
+- **Distributed systems** — event-driven replication, keeping services in sync without losing data, designing for the failure case first.
+- **Low-latency infrastructure** — memory layout, threading, and hot-path tuning; habits that stuck from trading systems.
+- **Fault tolerance & observability** — services that fail gracefully *and* tell you why, wired through Datadog and PagerDuty.
+- **Pragmatic platform work** — decomposing monoliths, taming MySQL query plans, and shipping SaaS connectors enterprises actually depend on.
 
-## 🧠 Core Focus & Interests
-- 🌐 **Distributed Computing:** Building high-availability, microservice-oriented cloud platforms.
-- ⚡ **Low-Latency Architecture:** Shifting parameters, thread tuning, and event-driven architectures.
-- 📊 **Competitive Programming:** Expert tracker who loves tackling algorithmic edge cases for fun.
+<br/>
 
----
+## ⌗ &nbsp;Stack
 
-## 📊 GitHub Analytics & Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vansh482&show_icons=true&theme=tokyonight&count_private=true" alt="Vansh's GitHub Stats" />
-</p>
+```yaml
+# stack.yml
+languages:      [ Java, C++, Python, SQL ]
+backend:        [ Spring Boot, gRPC, Hibernate, Aeron ]
+streaming:      [ Kafka, RocksDB, event-driven architecture ]
+cloud_devops:   [ AWS, Docker, Terraform, Kubernetes ]
+observability:  [ Datadog, PagerDuty, WIZ ]
+datastores:     [ MySQL, PostgreSQL, MongoDB ]
+```
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vansh482&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<br/>
 
----
+## ▣ &nbsp;A few things I'm proud of
 
-## 🤝 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/vansh-vg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+- **Codeforces Expert** (1600+) — global rank **850** in Round 896 (Div. 2). I solve hard algorithmic problems for fun.
+- **JEE Advanced — AIR 9684** out of 1M+ candidates.
+- Replaced Aeron middleware with a **Kafka + RocksDB** event-driven replication layer for trading servers — better fault tolerance, cleaner failure modes.
+- Shipped production **SaaS connectors** (Microsoft Dynamics 365, Trello) running bi-directional enterprise data sync at Smartsheet.
+
+<br/>
+
+## ⟶ &nbsp;Find me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vansh-vg/">
+    <img src="https://img.shields.io/badge/LinkedIn-vansh--vg-5B8DEF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B1120" alt="LinkedIn" />
   </a>
-</p>
+  &nbsp;
+  <a href="mailto:vansh012345gupta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-reach%20out-9B8CFF?style=flat-square&logo=gmail&logoColor=white&labelColor=0B1120" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE">
+    <img src="https://img.shields.io/badge/Codeforces-Expert-34E7E7?style=flat-square&logo=codeforces&logoColor=white&labelColor=0B1120" alt="Codeforces" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub><code>p99 latency: 38µs</code> &nbsp;·&nbsp; <code>replication: 3/3 in-sync</code> &nbsp;·&nbsp; <code>status: open to hard backend & distributed-systems problems</code></sub>
+</div>
