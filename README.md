@@ -5,7 +5,16 @@
 <br/>
 
 <div align="center">
-  <img src="terminal.svg" width="850" alt="vansh@distributed-systems terminal session — whoami: builds backend systems that stay up when things break; uptime: ex-Futures First low-latency C++ trading, now at Smartsheet; tech stack: Java, C++, Python, Spring Boot, Kafka, AWS, Docker, Kubernetes, Terraform, MySQL, Datadog; flex: Codeforces Expert 1600+ rank 850, JEE Advanced AIR 9684; git log: shipped Dynamics 365 + Trello connectors, replaced Aeron with Kafka+RocksDB; help: linkedin.com/in/vansh-vg, vansh012345gupta@gmail.com" />
+
+<details>
+<summary><code>  ▸  vansh@dsys ~ % open ./terminal-session  </code></summary>
+
+<br/>
+
+<img src="terminal.svg" width="850" alt="vansh@distributed-systems terminal — whoami, uptime, tech stack (Java, C++, Python, Spring Boot, Kafka, AWS, Docker, Kubernetes, Terraform, MySQL, Datadog), flex (Codeforces Expert 1600+, JEE Advanced AIR 9684), git log (Dynamics 365 + Trello connectors, Kafka+RocksDB replacing Aeron), and vansh --help (linkedin.com/in/vansh-vg, vansh012345gupta@gmail.com)" />
+
+</details>
+
 </div>
 
 <br/>
