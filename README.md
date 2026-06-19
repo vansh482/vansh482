@@ -25,6 +25,6 @@
   <a href="https://www.linkedin.com/in/vansh-vg/"><img src="badge-linkedin.svg" height="46" alt="LinkedIn — vansh-vg" /></a>
   &nbsp;&nbsp;
   <a href="mailto:vansh012345gupta@gmail.com"><img src="badge-email.svg" height="46" alt="Email — vansh012345gupta@gmail.com" /></a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="badge-codeforces.svg" height="46" alt="Codeforces — Expert" /></a>
+  <!-- &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="badge-codeforces.svg" height="46" alt="Codeforces — Expert" /></a> -->
 </div>
