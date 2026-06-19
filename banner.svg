@@ -1,0 +1,142 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" font-family="'SF Mono','SFMono-Regular',ui-monospace,'DejaVu Sans Mono','Menlo','Consolas',monospace" role="img" aria-label="Vansh Gupta — backend and distributed-systems engineer">
+  <defs>
+    <linearGradient id="card" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#10182B"/>
+      <stop offset="1" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34E7E7"/>
+      <stop offset="0.5" stop-color="#5B8DEF"/>
+      <stop offset="1" stop-color="#9B8CFF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-0.15 0; 0.15 0; -0.15 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#34E7E7" stop-opacity="0.1"/>
+      <stop offset="0.5" stop-color="#5B8DEF"/>
+      <stop offset="1" stop-color="#9B8CFF" stop-opacity="0.1"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="roleClip"><rect x="44" y="150" width="0" height="26"><animate attributeName="width" from="0" to="620" dur="1.5s" begin="0.7s" fill="freeze" calcMode="linear"/></rect></clipPath>
+    <clipPath id="cardClip"><rect x="12" y="12" width="876" height="276" rx="16"/></clipPath>
+  </defs>
+
+  <!-- backdrop -->
+  <rect x="0" y="0" width="900" height="300" fill="#0A0E17"/>
+  <rect x="12" y="12" width="876" height="276" rx="16" fill="url(#card)" stroke="#1E2A44" stroke-width="1.5"/>
+
+  <!-- animated draw-in border accent -->
+  <rect x="12" y="12" width="876" height="276" rx="16" fill="none" stroke="url(#aurora)" stroke-width="1.5" pathLength="100" stroke-dasharray="100" stroke-dashoffset="100" opacity="0.9">
+    <animate attributeName="stroke-dashoffset" from="100" to="0" dur="1.1s" begin="0s" fill="freeze"/>
+  </rect>
+
+  <!-- faint grid -->
+  <g clip-path="url(#cardClip)" stroke="#16223A" stroke-width="1">
+    <line x1="12" y1="64" x2="888" y2="64"/>
+    <line x1="12" y1="246" x2="888" y2="246"/>
+  </g>
+
+  <!-- top status bar -->
+  <g font-size="12.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.3s" fill="freeze"/>
+    <circle cx="44" cy="40" r="4.5" fill="#46E08B">
+      <animate attributeName="opacity" values="1;0.35;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="44"><tspan fill="#8499BE">service: </tspan><tspan fill="#DCE6F5">vansh-gupta</tspan><tspan fill="#3C4D6E">  //  </tspan><tspan fill="#46E08B">status: online</tspan></text>
+    <text x="856" y="44" fill="#6F82A6" text-anchor="end">node: ap-south-1 · IN</text>
+  </g>
+
+  <!-- name wordmark -->
+  <g filter="url(#glow)" opacity="0" transform="translate(0,10)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="0.35s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 10; 0 0" dur="0.7s" begin="0.35s" fill="freeze"/>
+    <text x="42" y="124" font-size="62" font-weight="700" letter-spacing="6" fill="url(#aurora)">VANSH GUPTA</text>
+  </g>
+  <!-- subtle perpetual glow breathing on the name -->
+  <text x="42" y="124" font-size="62" font-weight="700" letter-spacing="6" fill="url(#aurora)" opacity="0" filter="url(#glow)">VANSH GUPTA
+    <animate attributeName="opacity" values="0;0.18;0" dur="4.5s" begin="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- role line (typed reveal, flows regardless of font width) -->
+  <g clip-path="url(#roleClip)" font-size="17.5">
+    <text x="44" y="168"><tspan fill="#5B8DEF">&gt; </tspan><tspan fill="#C3D2EC">backend &amp; distributed-systems engineer </tspan><tspan fill="#FFB454">@ Smartsheet</tspan><tspan fill="#34E7E7" font-weight="700"> ▌<animate attributeName="opacity" values="1;1;0;0;1" dur="1s" begin="2.3s" repeatCount="indefinite"/></tspan></text>
+  </g>
+
+  <!-- credential pills -->
+  <g font-size="12.5" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.2s" fill="freeze"/>
+    <g transform="translate(44,196)">
+      <rect x="0" y="0" width="174" height="28" rx="14" fill="#0E1B2E" stroke="#2A6E6E"/>
+      <circle cx="18" cy="14" r="3.5" fill="#34E7E7"/>
+      <text x="30" y="18" fill="#9FE9E9">Codeforces Expert</text>
+    </g>
+    <g transform="translate(230,196)">
+      <rect x="0" y="0" width="182" height="28" rx="14" fill="#0E1B2E" stroke="#3A5499"/>
+      <circle cx="18" cy="14" r="3.5" fill="#5B8DEF"/>
+      <text x="30" y="18" fill="#AFC3F0">JEE Adv · AIR 9684</text>
+    </g>
+    <g transform="translate(424,196)">
+      <rect x="0" y="0" width="316" height="28" rx="14" fill="#0E1B2E" stroke="#5E4FA0"/>
+      <circle cx="18" cy="14" r="3.5" fill="#9B8CFF"/>
+      <text x="30" y="18" fill="#C7BEF5">ex–Futures First · low-latency infra</text>
+    </g>
+  </g>
+
+  <!-- ===== telemetry / replication motif (lower band) ===== -->
+  <g clip-path="url(#cardClip)">
+    <!-- baseline -->
+    <line x1="44" y1="266" x2="856" y2="266" stroke="#1B2740" stroke-width="1"/>
+
+    <!-- latency waveform (revealed by moving mask, then a dot rides it) -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.8s" begin="1.4s" fill="freeze"/>
+      <path id="lat" d="M 44 266 L 120 266 L 150 250 L 180 266 L 320 266 L 348 238 L 372 262 L 392 252 L 420 266 L 600 266 L 628 246 L 656 266 L 760 266 L 786 256 L 856 266"
+            fill="none" stroke="url(#wave)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"
+            pathLength="100" stroke-dasharray="100" stroke-dashoffset="100">
+        <animate attributeName="stroke-dashoffset" from="100" to="0" dur="2.2s" begin="1.4s" fill="freeze"/>
+      </path>
+      <!-- glowing packet riding the latency line -->
+      <circle r="3.6" fill="#34E7E7" filter="url(#softglow)">
+        <animateMotion dur="6s" begin="3.4s" repeatCount="indefinite" rotate="auto"
+          path="M 44 266 L 120 266 L 150 250 L 180 266 L 320 266 L 348 238 L 372 262 L 392 252 L 420 266 L 600 266 L 628 246 L 656 266 L 760 266 L 786 256 L 856 266"/>
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="1.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- p99 readout -->
+    <g font-size="12" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.6s" fill="freeze"/>
+      <text x="44" y="284" fill="#52668C">p99 latency</text>
+      <text x="132" y="284" fill="#FFB454" font-weight="700">38µs
+        <animate attributeName="opacity" values="1;1;0" dur="3s" repeatCount="indefinite"/>
+      </text>
+      <text x="132" y="284" fill="#FFB454" font-weight="700" opacity="0">41µs
+        <animate attributeName="opacity" values="0;0;1;1;0" dur="3s" repeatCount="indefinite"/>
+      </text>
+      <text x="700" y="284" fill="#52668C" text-anchor="end">replication</text>
+      <text x="712" y="284" fill="#46E08B">3 / 3 in-sync</text>
+      <circle cx="800" cy="280" r="3" fill="#46E08B">
+        <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- three replication nodes with packet hops -->
+    <g opacity="0" transform="translate(0,0)">
+      <animate attributeName="opacity" from="0" to="1" dur="0.6s" begin="2.8s" fill="freeze"/>
+      <line x1="744" y1="266" x2="800" y2="266" stroke="#27406B" stroke-width="1.5"/>
+      <line x1="800" y1="266" x2="856" y2="266" stroke="#27406B" stroke-width="1.5"/>
+      <circle cx="744" cy="266" r="5" fill="#0B1120" stroke="#5B8DEF" stroke-width="1.5"/>
+      <circle cx="800" cy="266" r="5" fill="#0B1120" stroke="#5B8DEF" stroke-width="1.5"/>
+      <circle cx="856" cy="266" r="5" fill="#0B1120" stroke="#5B8DEF" stroke-width="1.5"/>
+      <circle r="2.6" fill="#9B8CFF" filter="url(#softglow)">
+        <animateMotion dur="2.4s" begin="3.4s" repeatCount="indefinite" path="M 744 266 L 800 266 L 856 266"/>
+      </circle>
+    </g>
+  </g>
+</svg>
