@@ -7,7 +7,7 @@
 <div align="center">
 
 <details>
-<summary><code>  ▸  vansh@dsys ~ % open ./terminal-session  </code></summary>
+<summary><code>vansh@dsys ~ % open ./terminal-session  </code></summary>
 
 <br/>
 
