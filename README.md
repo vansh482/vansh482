@@ -30,14 +30,10 @@
 <!-- </div> -->
 
 
-
-<div align="center">
-  <img src="banner.svg" width="850" alt="Vansh Gupta — backend & distributed-systems engineer @ Smartsheet" />
-</div>
+<img src="banner.svg" width="850" alt="Vansh Gupta — backend & distributed-systems engineer @ Smartsheet" />
 
 <br/>
-
-<div align="center">
+<br/>
 
 <details>
 <summary><code>vansh@dsys ~ % ./terminal-session</code> &nbsp; <sub>click to toggle</sub></summary>
@@ -48,29 +44,26 @@
 
 </details>
 
-</div>
+<details>
+<summary><code>vansh@dsys ~ % ping me</code></summary>
 
 <br/>
 
-<div align="center">
-  <code>vansh@dsys ~ % ping me</code>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/vansh-vg/"><img src="badge-linkedin.svg" height="46" alt="LinkedIn — vansh-vg" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:vansh012345gupta@gmail.com"><img src="badge-email.svg" height="46" alt="Email — vansh012345gupta@gmail.com" /></a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="badge-codeforces.svg" height="46" alt="Codeforces — Expert" /></a>
-</div>
+<a href="https://www.linkedin.com/in/vansh-vg/"><img src="badge-linkedin.svg" height="46" alt="LinkedIn — vansh-vg" /></a>
+&nbsp;
+<a href="mailto:vansh012345gupta@gmail.com"><img src="badge-email.svg" height="46" alt="Email — vansh012345gupta@gmail.com" /></a>
+&nbsp;
+<a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="badge-codeforces.svg" height="46" alt="Codeforces — Expert" /></a>
 
-<br/>
-<br/>
+</details>
 
-<div align="center"><code>vansh@dsys ~ % ls ./field-notes</code></div>
+<details>
+<summary><code>vansh@dsys ~ % notes</code></summary>
 
 <br/>
 
 <details>
-<summary><code>cat ~/field-notes/aeron-to-kafka.md</code></summary>
+<summary><code>cat aeron-to-kafka.md</code></summary>
 
 <br/>
 
@@ -85,7 +78,7 @@
 </details>
 
 <details>
-<summary><code>cat ~/field-notes/colima-testcontainers.md</code></summary>
+<summary><code>cat colima-testcontainers.md</code></summary>
 
 <br/>
 
@@ -105,7 +98,7 @@ export TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE="/var/run/docker.sock"
 </details>
 
 <details>
-<summary><code>cat ~/field-notes/system-design.md</code></summary>
+<summary><code>cat system-design.md</code></summary>
 
 <br/>
 
@@ -123,5 +116,7 @@ flowchart LR
 ```
 
 Producers append to a strictly-ordered Kafka log; each replica builds local RocksDB state and recovers by replaying from its last offset. Failure handling becomes *"replay from offset"* instead of *"hope the in-flight message survived."*
+
+</details>
 
 </details>
