@@ -1,70 +1,139 @@
-<!-- <div align="center">
-  <img src="banner.svg" width="850" alt="Vansh Gupta — backend & distributed-systems engineer @ Smartsheet" />
-</div>
-
-<br/>
-
 <div align="center">
-
-<details>
-<summary><code>vansh@dsys ~ % open ./terminal-session  </code></summary>
-
-<br/>
-
-<img src="terminal.svg" width="850" alt="vansh@distributed-systems terminal — whoami, uptime, tech stack (Java, C++, Python, Spring Boot, Kafka, AWS, Docker, Kubernetes, Terraform, MySQL, Datadog), flex (Codeforces Expert 1600+, JEE Advanced AIR 9684), git log (Dynamics 365 + Trello connectors, Kafka+RocksDB replacing Aeron), and vansh --help (linkedin.com/in/vansh-vg, vansh012345gupta@gmail.com)" />
-
-</details>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <code>vansh@dsys ~ % ping me</code>
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/vansh-vg/"><img src="badge-linkedin.svg" height="46" alt="LinkedIn — vansh-vg" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:vansh012345gupta@gmail.com"><img src="badge-email.svg" height="46" alt="Email — vansh012345gupta@gmail.com" /></a> -->
-  <!-- &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="badge-codeforces.svg" height="46" alt="Codeforces — Expert" /></a> -->
-<!-- </div> -->
 
 <img src="banner.svg" width="850" alt="Vansh Gupta — backend & distributed-systems engineer @ Smartsheet" />
 
-<br/>
-<br/>
+<br/><br/>
 
-<details>
-<summary><code>vansh@dsys ~ % ./terminal-session</code> &nbsp; <sub>click to toggle</sub></summary>
-
-<br/>
-
-<img src="terminal.svg" width="850" alt="vansh@distributed-systems terminal — whoami, uptime, tech stack (Java, C++, Python, Spring Boot, Kafka, AWS, Docker, Kubernetes, Terraform, MySQL, Datadog), flex (Codeforces Expert 1600+, JEE Advanced AIR 9684), git log (Dynamics 365 + ServiceNow connectors on Nango, Kafka+RocksDB replacing Aeron), and vansh --help (linkedin.com/in/vansh-vg, vansh012345gupta@gmail.com)" />
-
-</details>
-
-<details>
-<summary><code>vansh@dsys ~ % ping me</code></summary>
+<a href="https://github.com/vansh482">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=34E7E7&center=true&vCenter=true&width=780&height=55&lines=Backend%20%26%20Distributed-Systems%20Engineer%20%40%20Smartsheet;Java%20%7C%20Spring%20Boot%20%7C%20AWS%20%7C%20Kafka%20%7C%20RocksDB;Codeforces%20Expert%201600%2B%20%7C%20ex-Futures%20First%20(low-latency%20C%2B%2B)" alt="typing intro" />
+</a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vansh-vg/"><img src="badge-linkedin.svg" height="46" alt="LinkedIn — vansh-vg" /></a>
-&nbsp;
-<a href="mailto:vansh012345gupta@gmail.com"><img src="badge-email.svg" height="46" alt="Email — vansh012345gupta@gmail.com" /></a>
-&nbsp;
-<a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="badge-codeforces.svg" height="46" alt="Codeforces — Expert" /></a>
+<a href="https://www.linkedin.com/in/vansh-vg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-Expert%201600+-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="mailto:vansh012345gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-</details>
+</div>
 
-<details>
-<summary><code>vansh@dsys ~ % notes</code></summary>
+---
 
-<br/>
+## 🧠 About Me
 
-<details>
-<summary><code>cat aeron-to-kafka.md</code></summary>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<br/>
+```java
+final class Vansh {
+    String  role     = "Backend & Distributed-Systems Engineer";
+    String  company  = "Smartsheet";
+    String  prev     = "Futures First — low-latency C++";
+
+    String[] focus = {
+        "fault-tolerant systems",
+        "low-latency infrastructure",
+        "event-driven replication"
+    };
+
+    String funFact = "I think in offsets, "
+                   + "partitions, and p99s.";
+}
+```
+
+</td>
+<td valign="top" width="50%">
+
+🔭 &nbsp;**Building** enterprise connectors on Java / Spring Boot, deployed on AWS (ECS Fargate)
+
+⚡ &nbsp;**Tuning** for latency — JVM behaviour, concurrency, event-driven design
+
+🧩 &nbsp;**Before this** — low-latency C++ trading infra at Futures First (Kafka, RocksDB, Aeron, gRPC)
+
+🏆 &nbsp;**Codeforces Expert** (1600+) — algorithms for fun, edge cases for sport
+
+🌱 &nbsp;**Exploring** JVM performance (GraalVM, virtual threads) & system design
+
+📫 &nbsp;**Open to** backend / distributed-systems roles (SDE II / L4 / E4)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="terminal.svg" width="850" alt="vansh@distributed-systems terminal — whoami, uptime, tech stack (Java, C++, Python, Spring Boot, Kafka, AWS, Docker, Kubernetes, Terraform, MySQL, Datadog), Codeforces Expert 1600+, JEE Advanced AIR 9684, git log (Dynamics 365 + ServiceNow connectors, Kafka+RocksDB replacing Aeron)" />
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'fontFamily':'monospace','primaryColor':'#0E1627','primaryTextColor':'#DCE6F5','lineColor':'#5B8DEF'}}}%%
+mindmap
+  root((Vansh / Focus))
+    Distributed Systems
+      Fault tolerance
+      Event-driven replication
+      Ordering & consistency
+    Low-Latency
+      JVM / GC tuning
+      Concurrency
+      Profiling
+    Cloud & Infra
+      AWS ECS / Fargate
+      VPC networking
+      Terraform / IaC
+    Competitive Programming
+      Codeforces Expert
+      Algorithms & DS
+```
+
+---
+
+## 🛠 Tech Stack
+
+#### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### Frameworks & Streaming
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
+
+#### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+#### Storage
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![RocksDB](https://img.shields.io/badge/RocksDB-2D2D2D?style=for-the-badge)
+
+#### Observability & Competitive Programming
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+🧠 &nbsp;**[Repo Doc Generator](https://github.com/vansh482/repo-doc-mcp-)** — AI documentation tool that keeps a codebase's docs alive. Scans a repo, uses an LLM to understand its architecture, and generates synchronized technical + non-technical docs, auto-published to Confluence and Google Docs as living pages. Exposed as an MCP server (11 tools); branch-aware with incremental regeneration; VS Code + IntelliJ extensions.
+`Python` &nbsp;`MCP` &nbsp;`LLM` &nbsp;`Bedrock / OpenAI / Ollama` &nbsp;`Confluence` &nbsp;`Google Docs`
+
+🪄 &nbsp;**[Portfolio Website](https://github.com/vansh482/portfolio-website)** — an interactive, awwwards-style portfolio with a custom magnifier-lens cursor, an x-ray reveal layer, and an ambient node-network canvas — all vanilla, no framework.
+`JavaScript` &nbsp;`SVG` &nbsp;`Canvas` &nbsp;`GitHub Pages` &nbsp;[`live →`](https://vansh482.github.io/portfolio-website/)
+
+---
+
+## 📝 Engineering Notes
+
+### Aeron → Kafka + RocksDB
 
 **Context** — at Futures First, trading servers replicated state over Aeron. Blazing transport, but replay and fault-recovery were bolted on the side.
 
@@ -89,12 +158,7 @@ flowchart LR
   before ==>|"migration"| after
 ```
 
-</details>
-
-<details>
-<summary><code>cat colima-testcontainers.md</code></summary>
-
-<br/>
+### Colima + Testcontainers on Apple Silicon
 
 **Symptom** — on Apple Silicon with Colima as the Docker runtime, Testcontainers can't reach the daemon and Ryuk (the cleanup sidecar) refuses to start.
 
@@ -125,14 +189,7 @@ export DOCKER_HOST="unix://${HOME}/.colima/default/docker.sock"
 export TESTCONTAINERS_DOCKER_SOCKET_OVERRIDE="/var/run/docker.sock"
 ```
 
-</details>
-
-<details>
-<summary><code>cat system-design.md</code></summary>
-
-<br/>
-
-Event-driven replication — the shape I keep reaching for:
+### Event-driven replication — the shape I keep reaching for
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"primaryColor":"#0E1627","primaryTextColor":"#DCE6F5","primaryBorderColor":"#34E7E7","lineColor":"#5B8DEF","clusterBkg":"#0B1120","fontFamily":"monospace"}}}%%
@@ -147,6 +204,11 @@ flowchart LR
 
 Producers append to a strictly-ordered Kafka log; each replica builds local RocksDB state and recovers by replaying from its last offset. Failure handling becomes *"replay from offset"* instead of *"hope the in-flight message survived."*
 
-</details>
+---
 
-</details>
+## 🤝 Connect
+
+<a href="https://www.linkedin.com/in/vansh-vg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="mailto:vansh012345gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/vansh482"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
