@@ -209,6 +209,6 @@ Producers append to a strictly-ordered Kafka log; each replica builds local Rock
 ## 🤝 Connect
 
 <a href="https://www.linkedin.com/in/vansh-vg/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<!-- <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a> -->
 <a href="mailto:vansh012345gupta@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/vansh482"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<!-- <a href="https://codeforces.com/profile/YOUR_CF_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a> -->
