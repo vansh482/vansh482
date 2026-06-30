@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 <table>
 <tr>
@@ -93,7 +93,7 @@ mindmap
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 #### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -129,17 +129,17 @@ mindmap
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-🧠 &nbsp;**[Repo Doc Generator](https://github.com/vansh482/repo-doc-mcp-)** — AI documentation tool that keeps a codebase's docs alive. Scans a repo, uses an LLM to understand its architecture, and generates synchronized technical + non-technical docs, auto-published to Confluence and Google Docs as living pages. Exposed as an MCP server (11 tools); branch-aware with incremental regeneration; VS Code + IntelliJ extensions.
+&nbsp;**[Repo Doc Generator](https://github.com/vansh482/repo-doc-mcp-)** — AI documentation tool that keeps a codebase's docs alive. Scans a repo, uses an LLM to understand its architecture, and generates synchronized technical + non-technical docs, auto-published to Confluence and Google Docs as living pages. Exposed as an MCP server (11 tools); branch-aware with incremental regeneration; VS Code + IntelliJ extensions.
 `Python` &nbsp;`MCP` &nbsp;`LLM` &nbsp;`Bedrock / OpenAI / Ollama` &nbsp;`Confluence` &nbsp;`Google Docs`
 
-🪄 &nbsp;**[Portfolio Website](https://github.com/vansh482/portfolio-website)** — an interactive, awwwards-style portfolio with a custom magnifier-lens cursor, an x-ray reveal layer, and an ambient node-network canvas — all vanilla, no framework.
+&nbsp;**[Portfolio Website](https://github.com/vansh482/portfolio-website)** — an interactive, awwwards-style portfolio with a custom magnifier-lens cursor, an x-ray reveal layer, and an ambient node-network canvas — all vanilla, no framework.
 `JavaScript` &nbsp;`SVG` &nbsp;`Canvas` &nbsp;`GitHub Pages` &nbsp;[`live →`](https://vansh482.github.io/portfolio-website/)
 
 ---
 
-## 📝 Engineering Notes
+## Engineering Notes
 
 ### Aeron → Kafka + RocksDB
 
